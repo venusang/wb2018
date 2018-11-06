@@ -8,7 +8,7 @@
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
     "build": "node build/build.js",
-    "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
+    "unit-watch": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --auto-watch -- --inspect",
     "e2e": "node test/e2e/runner.js",
     "test": "npm run unit && npm run e2e",
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
@@ -17,6 +17,7 @@
     "vue": "^2.3.3",
     "vue-owl-carousel": "^2.0.3",
     "vue-router": "^2.6.0",
+    "vue-test-utils": "^1.0.0-beta.11",
     "vuetable": "^1.5.12",
     "vuex": "^2.3.1"
   },
