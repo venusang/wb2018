@@ -1,4 +1,5 @@
 # myvueapp
+This app is a simple photo carousel using Owl Carousel https://www.npmjs.com/package/v-owl-carousel.  I have utilized a simple json api to bring in the images, alt, and descriptions for each image.  Additionally, I have included a simple unit test for the Carousel component (see /src/components) that hooks in this carousel. 
 
 > A Vue.js project
 
