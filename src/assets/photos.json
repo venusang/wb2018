@@ -1,0 +1,54 @@
+{
+	"photos": [{
+		"imgUrl": "static/img/01.jpg",
+		"description": "asdasda Some text goes here for image 01.jpg"
+	},
+	{
+		"imgUrl": "/static/img/14.jpg",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/03.jpg",
+		"description": "A Star is Born"
+	},
+	{
+		"imgUrl": "static/img/04.jpg",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/05.jpg",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/06.png",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/07.jpg",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/08.png",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/09.jpg",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/10.jpg",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/11.png",
+		"description": "Some text goes here for image 02.png"
+	},
+	{
+		"imgUrl": "static/img/13.jpg",
+		"description": "Some text goes here for image 02.png"
+	}
+],
+	"id": "11032018",
+	"resourceType": "images",
+	"type": "Carousel Photos"
+}

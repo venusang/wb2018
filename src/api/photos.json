@@ -1,0 +1,70 @@
+{
+	"photos": [{
+		"imgUrl": "01.jpg",
+		"alt": "short description",
+		"description": "In Theatres December 21"
+	},
+	{
+		"imgUrl": "02.png",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "03.jpg",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "04.jpg",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "05.jpg",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "06.png",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "07.jpg",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "08.png",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "09.jpg",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "10.jpg",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "11.png",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "13.jpg",
+		"alt": "short description",
+		"description": "Some text goes here"
+	},
+	{
+		"imgUrl": "14.jpg",
+		"alt": "short description",
+		"description": "Some text goes here"
+	}
+],
+	"id": "11032018",
+	"resourceType": "images",
+	"type": "Carousel Photos"
+}
